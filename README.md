@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install blacken-docs from PyPI
-  uses: install-pinned/blacken-docs@ffffffffffffffffffffffffffffffffffffffff
+  uses: install-pinned/blacken-docs@0c504919bcc5ed10ec0253dd8cd43880de263bb5  # 1.12.1
 ```
 
 ## Alternatives
