@@ -13,8 +13,8 @@ This action installs a pinned version of **blacken-docs** and all its dependenci
 In your GitHub Actions workflow, use this action like so:
 
 ```yaml
-- name: Install blacken-docs from PyPI
-  uses: install-pinned/blacken-docs@d459c195643a17cf58457ade69cf5acbe7fffc92  # 1.12.1
+      - name: Install blacken-docs from PyPI
+        uses: install-pinned/blacken-docs@d459c195643a17cf58457ade69cf5acbe7fffc92  # 1.12.1
 ```
 
 ## Alternatives
