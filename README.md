@@ -19,7 +19,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install blacken-docs from PyPI
-        uses: install-pinned/blacken-docs@8895be06745dd912bd1dae61bf0e4b269294706e  # 1.12.1
+        uses: install-pinned/blacken-docs@ffffffffffffffffffffffffffffffffffffffff
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
