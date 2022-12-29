@@ -38,9 +38,9 @@ pathspec==0.10.3 \
     --hash=sha256:3c95343af8b756205e2aba76e843ba9520a24dd84f68c22b9f93251507509dd6 \
     --hash=sha256:56200de4077d9d0791465aa9095a01d421861e405b5096955051deefd697d6f6
     # via black
-platformdirs==2.6.1 \
-    --hash=sha256:69de5933ec873bd7ddae497f004be17cf200bce048dc987c28fc4e347d5349ff \
-    --hash=sha256:e13f076e0f725f1beb58e7d26f80eff94099941740d3c664db03efecd6561271
+platformdirs==2.6.2 \
+    --hash=sha256:83c8f6d04389165de7c9b6f0c682439697887bca0aa2f1c87ef1826be3584490 \
+    --hash=sha256:e1fea1fe471b9ff8332e229df3cb7de4f53eeea4998d3b6bfff542115e998bd2
     # via black
 tomli==2.0.1 \
     --hash=sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc \
@@ -78,6 +78,7 @@ typing-extensions==4.4.0 \
     # via
     #   black
     #   importlib-metadata
+    #   platformdirs
 zipp==3.11.0 \
     --hash=sha256:83a28fcb75844b5c0cdaf5aa4003c2d728c77e05f5aeabe8e95e56727005fbaa \
     --hash=sha256:a7a22e05929290a67401440b39690ae6563279bced5f314609d9d03798f56766
